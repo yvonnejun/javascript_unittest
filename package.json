@@ -16,7 +16,8 @@
     "karma-jasmine": "^1.1.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "unitstart": "karma start karma.conf.js"
   },
   "author": "Yvonne",
   "license": "ISC"
